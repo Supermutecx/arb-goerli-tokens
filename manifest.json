@@ -30,13 +30,6 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-    },
-  ],
-  "logoURI": "ipfs://QmTvWJ4kmzq9koK74WJQ594ov8Es1HHurHZmMmhU8VY68y",
-  "tags": {
-    "sourceList": {
-      "name": "Source list url",
-      "description": "https:__tokenlist.arbitrum.io_ArbTokenLists_arbed_arb_whitelist_era.json replace _ with forwardslash"
     }
-  }
+  ]
 }
