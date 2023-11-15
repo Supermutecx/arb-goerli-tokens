@@ -1,0 +1,42 @@
+{
+  "name": "Arb Whitelist Era - Goerli Testnet",
+  "timestamp": "2023-11-15T15:14:10.184Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 421613,
+      "name": "Dai Stablecoin",
+      "address": "0x332C7aC34580dfEF553B7726549cEc7015C4B39b",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png"
+    },
+    {
+      "chainId": 421613,
+      "name": "Tether USD",
+      "address": "0x0aCBd07e458F228d4869066b998a0F55F36537B2",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "chainId": 421613,
+      "name": "Wrapped Ether",
+      "address": "0xe39Ab88f8A4777030A534146A9Ca3B52bd5D43A3",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+  ],
+  "logoURI": "ipfs://QmTvWJ4kmzq9koK74WJQ594ov8Es1HHurHZmMmhU8VY68y",
+  "tags": {
+    "sourceList": {
+      "name": "Source list url",
+      "description": "https:__tokenlist.arbitrum.io_ArbTokenLists_arbed_arb_whitelist_era.json replace _ with forwardslash"
+    }
+  }
+}
